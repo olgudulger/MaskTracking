@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7756F522-AFD0-43E9-BC5A-B1F223BBD900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{CFC75B7B-BC0F-4374-9A30-7D76F9516369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workspace", "Workspace\Workspace.csproj", "{49AA5689-610C-421A-94B1-095E46E2C7B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7756F522-AFD0-43E9-BC5A-B1F223BBD900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7756F522-AFD0-43E9-BC5A-B1F223BBD900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7756F522-AFD0-43E9-BC5A-B1F223BBD900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7756F522-AFD0-43E9-BC5A-B1F223BBD900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC75B7B-BC0F-4374-9A30-7D76F9516369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC75B7B-BC0F-4374-9A30-7D76F9516369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC75B7B-BC0F-4374-9A30-7D76F9516369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC75B7B-BC0F-4374-9A30-7D76F9516369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AA5689-610C-421A-94B1-095E46E2C7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AA5689-610C-421A-94B1-095E46E2C7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AA5689-610C-421A-94B1-095E46E2C7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AA5689-610C-421A-94B1-095E46E2C7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9C68C5-04EC-4432-9125-778EE10EBDAB}
+	EndGlobalSection
+EndGlobal
